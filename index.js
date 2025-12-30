@@ -4,7 +4,6 @@
 // nivelDeHeroi (representa o nível do herói com base no XP).
 // Foi utilizado o switch como estrutura de decisão.
 
-```js
 const xp = 1000;
 const nomeHeroi = "Gustavo";
 let nivelDeHeroi;
